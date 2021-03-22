@@ -1,1 +1,1 @@
-Tutorial on Git 
+Tutorial on Git, modifying it to observe changes.
